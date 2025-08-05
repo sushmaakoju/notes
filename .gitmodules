@@ -1,0 +1,33 @@
+[submodule "constructed-languages"]
+	path = constructed-languages
+	url = https://github.com/sushmaakoju/constructed-languages.git
+[submodule "theory-of-computation"]
+	path = theory-of-computation
+	url = https://github.com/sushmaakoju/theory-of-computation.git
+[submodule "knowledge-representation-reasoning"]
+	path = knowledge-representation-reasoning
+	url = https://github.com/sushmaakoju/knowledge-representation-reasoning.git
+[submodule "logic"]
+	path = logic
+	url = https://github.com/sushmaakoju/logic.git
+[submodule "parsers"]
+	path = parsers
+	url = https://github.com/sushmaakoju/parsers.git
+[submodule "neurosymbolic-methods"]
+	path = neurosymbolic-methods
+	url = https://github.com/sushmaakoju/neurosymbolic-methods.git
+[submodule "neural-networks-dl-drl"]
+	path = neural-networks-dl-drl
+	url = https://github.com/sushmaakoju/neural-networks-dl-drl.git
+[submodule "multimodal-ai"]
+	path = multimodal-ai
+	url = https://github.com/sushmaakoju/multimodal-ai.git
+[submodule "llms"]
+	path = llms
+	url = https://github.com/sushmaakoju/llms.git
+[submodule "neuroscience-cogsci"]
+	path = neuroscience-cogsci
+	url = https://github.com/sushmaakoju/neuroscience-cogsci.git
+[submodule "theoretical-logic"]
+	path = theoretical-logic
+	url = https://github.com/sushmaakoju/theoretical-logic.git
